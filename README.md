@@ -19,10 +19,13 @@ Here are some ideas to get you started:
 - 💻 Computer Science & 🎨 Arts
 - 🚀 Indie Hacker | Full Stack Developer
 - 🌏 Based in Virginia, US
+- 📸 Photographer | 💪 Bodybuilder | 🏓 Pickleball | 🏂 Snowboarder | 👨‍🍳 Cook
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colin-tang-983771180/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/ctphotography77)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ctlandu.github.io)
+
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
